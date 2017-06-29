@@ -1,0 +1,14 @@
+{
+  "name": "angular-4",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Anastasiia Iagniuk",
+  "license": "MIT"
+}
