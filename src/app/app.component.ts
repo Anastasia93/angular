@@ -1,3 +1,7 @@
-/**
- * Created by Настя on 29.06.2017.
- */
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'my-app',
+  template: `<h1>Hello {{name}}</h1>`,
+})
+export class AppComponent  { name = 'Angular'; }
